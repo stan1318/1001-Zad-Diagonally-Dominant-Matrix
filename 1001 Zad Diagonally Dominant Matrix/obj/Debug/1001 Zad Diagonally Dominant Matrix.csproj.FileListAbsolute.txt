@@ -1,0 +1,6 @@
+C:\Games\VS 2013\A lot of Projects\1001 Zad Diagonally Dominant Matrix\1001 Zad Diagonally Dominant Matrix\bin\Debug\1001 Zad Diagonally Dominant Matrix.exe.config
+C:\Games\VS 2013\A lot of Projects\1001 Zad Diagonally Dominant Matrix\1001 Zad Diagonally Dominant Matrix\bin\Debug\1001 Zad Diagonally Dominant Matrix.exe
+C:\Games\VS 2013\A lot of Projects\1001 Zad Diagonally Dominant Matrix\1001 Zad Diagonally Dominant Matrix\bin\Debug\1001 Zad Diagonally Dominant Matrix.pdb
+C:\Games\VS 2013\A lot of Projects\1001 Zad Diagonally Dominant Matrix\1001 Zad Diagonally Dominant Matrix\obj\Debug\1001 Zad Diagonally Dominant Matrix.csprojResolveAssemblyReference.cache
+C:\Games\VS 2013\A lot of Projects\1001 Zad Diagonally Dominant Matrix\1001 Zad Diagonally Dominant Matrix\obj\Debug\1001 Zad Diagonally Dominant Matrix.exe
+C:\Games\VS 2013\A lot of Projects\1001 Zad Diagonally Dominant Matrix\1001 Zad Diagonally Dominant Matrix\obj\Debug\1001 Zad Diagonally Dominant Matrix.pdb
